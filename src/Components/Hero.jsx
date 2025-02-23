@@ -67,7 +67,7 @@ function Hero() {
           animate={isInView ? { scale: 1, opacity: 1 } : {}}
           transition={{ duration: 0.8 }}
         >
-          <img className='xl:h-[89vh] transition-all duration-500 transform hover:scale-105 animate-infinite-scale' src="src/assets/me.png" alt="Hero Image" />
+          <img className='xl:h-[89vh] transition-all duration-500 transform hover:scale-105 animate-infinite-scale' src="src/assets/hiren.png" alt="Hero Image" />
         </motion.div>
       </div>
     </motion.div>
