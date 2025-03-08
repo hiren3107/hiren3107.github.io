@@ -18,21 +18,21 @@ function Project() {
   const projects = [
     { 
       title: "React Admin Panel", 
-      image: "src/assets/adminpanel.png",
+      image: "https://media-hosting.imagekit.io//02697fde675c49b0/adminpanel.png?Expires=1836040822&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=BYkraPdMaaO8VyG5e~46nz2lt~H7fw6dzj3~RXZL8e3g9MsKhGkCIz~-9hRYxybvFkTTodmbqAG8j6Lr5SCBZWq~T5wA8g28kCG0cx6cZk0A5sRtQOrt8t5ilt7pk02NtWU3ivOIejx9oNz83fM7HhDNmyuO8-E8lQklsdnR5nGi-WX1Xqvrgs4zEAG9ZH9w4smtM7~lujOHEo1bIhKB7VtsnzsE~H81GKYGHSBJkE3gNRntb0~tU9iCT8aBp6ykHFk4S20Vcs~Q7UWOo7lIcOLAqQlO4hVAUzzXNstaThjEVkWaWJKvf68tEIofIhi~YpHhAJ1RWNnhDpmLVnOzGg__",
       description: "The React Admin Panel is a powerful, user-friendly dashboard designed for seamless management. It features charts, real-time analytics, role-based authentication, and an intuitive UI. Built with React, Tailwind CSS, and modern libraries, it ensures smooth navigation and efficient data handling, making admin tasks effortless.",
       demoLink: "https://hirenadminpanel.netlify.app/",
       codeLink: "https://github.com/hiren3107/NXT_WAVE_ADMINPANEL"
     },
     { 
       title: "Boat Clone Website", 
-      image: "src/assets/boat clone.png",
+      image: "https://media-hosting.imagekit.io//ca1b3972cf944b1b/boat%20clone.png?Expires=1836040824&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=a0iy0hcvqGKQS5DLwIEpCZEVoI0VBLhClnOkm~68oLxriVUnEvSSYgunkqbL5n4yeYiXEAnuGSoA4dvycUNcAf4owOMtqyOxgSP5pxDz2N9VUd53ViqjAiUqhj-~U6VtN8wpro1Gg-UrzpjZldP2~IV4Z92wIPafxg4-0VTWWvGmw~pvOoR3zyuxe-AATWff69X91VkutHsbHci4DWIY8-07pQOCXh9H1t4UePoS3HRer2aR-vyJyq6znnsMeW4BSYIuitn9olkR5E1ICpPTlReLuu4V2HD75gVEBwzPt6g3kKGaXo5XYSC9xH7y48EqvyIDONcRSPXy7kfooqA0pQ__",
       description: "The Boat Clone Website is a responsive e-commerce webpage inspired by Boat Lifestyle, built with HTML, CSS, JavaScript, and Tailwind CSS. It features a sleek design, interactive product showcase, smooth scrolling, and hover animations for an engaging user experience.",
       demoLink: "https://botclone.netlify.app/",
       codeLink: "https://github.com/hiren3107/Boat_Clone"
     },
     { 
       title: "Flayers Clone Website", 
-      image: "src/assets/flayers.png",
+      image: "https://media-hosting.imagekit.io//b270922ace5843fe/flayers.png?Expires=1836040929&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=onZO9wIXlvpzxtrjhMamjJ3JSlSDoYCnN76OXbMijDt-Yy~HO~7zBVOReMKRWUc6t-cbjZzLMFLgqwVEGV5pWPtr13Nz7EjgqgdyyUuYYV~reSVrD-FrYic37fFG96h5Jyqc2axdr5qKznM~k03bxeVlRbxC9O8C9~W~8CuqUy03y5CVG42eUR7-igW8tUjAgJN2bWoUPxLdxtVX5sqWxcV2FggIgs0m04ppksJmRbGTCLVg9Uejte2YnOts3bKBzESryBydoJE16GAqsEutnqKO2hB2~mztO1S1Z15Fx9h8Wig5ZNLYZQ-5D0sfDeyd9j-JLCY98ADCdTogycDB0A__",
       description: "The Flayers Clone Website is a sleek, e-commerce platform inspired by modern digital storefronts. It offers a seamless shopping experience with intuitive navigation, and dynamic product displays. Built using HTML, CSS, Tailwind CSS, and JavaScript, it ensures fast loading speeds, smooth animations, and an engaging user experience, making online shopping effortless and enjoyable.",
       demoLink: "https://elaborate-panda-f38d9c.netlify.app/",
       codeLink: "https://github.com/hiren3107/Java-Script/tree/main/Website/Flyers"

@@ -77,7 +77,7 @@ function Contact() {
       <div className="flex items-center gap-4 mt-5">
         <a href="https://www.linkedin.com/in/agravat-hiren-319a242aa" target="_blank" rel="noopener noreferrer">
           <motion.img 
-            src="src/assets/linkedin.png" 
+            src="https://media-hosting.imagekit.io//94ab3a7d917b4be7/linkedin.png?Expires=1836041009&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=rbOHr5UptElcAxc9D9ypW7el2vM9ROyJbTn7YMi-R2tvZeYow3WQ73M2v9HQRDBl4zWwRd-YFZ9EwmK7gZu1PnkuNp3bRNLX2L0lLMbgNnklIwtvnR0aUl8XmXLGKFIgNU5M20pfWmY9w9LK4AetSsrAVBkL7G2KsN7gNHH36D3XlocuEgMCcjbvaKzEPtslKjaxvkLMX98OX1IQjNzjzn5rFbVcBCBmX~DLQg2abCAERTxmMpcmQZAd~qff1LvBOP55gMEiRLXrqPFwBMh78dbtlD2atdlzqWTZGjLZGoHyyK6hZjVcjmLhuNXw3TNuI1VXyDoTzAw9QH4xISOrVA__" 
             alt="LinkedIn" 
             className="w-8 h-8" 
             whileHover={{ scale: 1.2 }} 
@@ -86,7 +86,7 @@ function Contact() {
         </a>
         <a href="https://github.com/hiren3107" target="_blank" rel="noopener noreferrer">
           <motion.img 
-            src="src/assets/github.png" 
+            src="https://media-hosting.imagekit.io//24fb008a2817438a/github.png?Expires=1836041029&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=VLs0ocxDP2tUH-CaT17Seb2rm3VN1JiTsrkvT6P20kLZkLvGnRzCErbtLoSl6Ai92WNRrWALTYc1DxqM~wag99~Gcv2w6wJpi5ipttZi5~PdbkXdlHlz5tF0kHU5xoQPkZlr-eolfGRW01quazUps3DJZeZQL385bB~ziSUVauk3sE1dFRxwSO2ATlKwu9Up7aBV6ATuMVqrlcx2ebN4jBBSPL4oi~HfUEoTJOim9PPSxckoCVKyXkud4K9o3fbdESOUESjdXuf4z9nn~biQpQe1PYncv9X~6PME-Szfio-56PQNbF7f0d2VzKdfjOwQ4oOOsR3TlCrVflOppo3KGQ__" 
             alt="GitHub" 
             className="w-8 h-8" 
             whileHover={{ scale: 1.2 }} 

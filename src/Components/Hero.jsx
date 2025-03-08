@@ -59,7 +59,7 @@ function Hero() {
               </button>
             </motion.a>
           </div>
-          <img className='w-[46px] text-center animate-bounce' src="src/assets/scroll.png" alt="Scroll icon" />
+          <img className='w-[46px] text-center animate-bounce' src="https://media-hosting.imagekit.io//1981a86fdd0a4187/scroll.png?Expires=1836040527&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=hqaW5j0ELxfZvweag-w-LCTqvEZk4~xu3319CbxqXS2gwpTF5riC5r555KaPTUwjwqqd7XnoxGaA~IBMgAOkhmyrahprooLFs9VeTG8JQYMuYVWr2u2FU09WJRy1ikzEGgqqkPxeHlpfTJUNy-Ar-EbiHMa~2IWqFV~O6lJj9rwPKMIqfvVXowSfsM2JXu-7oIzVB7uXnht1W3ag5LRTSmNAcUg~WF6Cdv6wWB38kOzpUNOZpYP~Bt6Kjh~NDTJ1Qk2kNTtHz4fLDtBelGpYp2dMqUgbVt8qym5kGDiPSob7eJ6PI0SGZsQnJuwP0CNkSmUIRMf6Lt5kSeFE~LWKXA__" alt="Scroll icon" />
         </div>
         <motion.div
           className="img m-auto"
@@ -67,7 +67,7 @@ function Hero() {
           animate={isInView ? { scale: 1, opacity: 1 } : {}}
           transition={{ duration: 0.8 }}
         >
-          <img className='xl:h-[89vh] transition-all duration-500 transform hover:scale-105 animate-infinite-scale' src="src/assets/hiren.png" alt="Hero Image" />
+          <img className='xl:h-[89vh] transition-all duration-500 transform hover:scale-105 animate-infinite-scale' src="https://media-hosting.imagekit.io//64d9a0af2e354bc2/hiren.png?Expires=1836038691&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=2m7Z-OlY~NpLey7TazjApnnS~PWw4PEyoHozp0-mIsrXpenuFXmINmHZIcy8Jdy3-v6Fl~GHErFVlqZuB9pqBGSZctgTm36d9Bm-YKSqZ8v629bdw~rmWhqYpG7UZKDkgJyoDPLzIbrymWArc6vlb~KSz6nvxHMZ-NNcvpTxVFOZEwVZ1mhffBKC1ZdnTfLCSilTg-L~NhvCn4Ba49fgvTzgjBp4v-uOSL6kToxnJJpcaX1CUUaiGr-S49xFIW9ihn4~N5jSlMOSLTuq9aS3kpvfiuURZ3jiYfVoHxtComq9kqk6B9D9d85O1-Q-S8sg-BafHwNkm-h18h5fbfQPdg__" alt="Hero Image" />
         </motion.div>
       </div>
     </motion.div>

@@ -29,7 +29,7 @@ function Section3() {
       {/* Sun (Moves Down Slightly) */}
       <motion.img
         className="absolute top-0 h-[100vh] object-cover"
-        src="src/assets/sun.png"
+        src="https://media-hosting.imagekit.io//58da1461efbb4749/sun.png?Expires=1836040490&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=tq91vHhhoSQz7Y-AQKzcY6UBlX7~1XTjj0ZenvVHZUyOQQmStYYBxrDfR8Nr9VTkactFKL0Di5cObqrZ4HU8y2iWS1bfDULzmkN4GdlZSBZAIf-RfR-TFgPu9txT9Ndm4BogsQaA~5hYpLdn8kQpcUsl1z86ePm2GPUHx7Lbfb5XMyBQiw5UsTE73IUhCHAYaYoRHqDWjbdOZHbi~5gMARfTE2WcoZ9~GCR0vw9TI-nuy-Nji4QYWXNYw6UMZR6q1DiH5ME26RxB1gAyMybLPAprjpaFyqbHrIViFxDqvkXvDjXJC~AxsaWpKwX2QyWNIx4XpZcf3fg2~x3UzvsTqQ__"
         alt="Sun"
         style={{ y: sunY }}
       />
@@ -45,7 +45,7 @@ function Section3() {
       {/* Mountains */}
       <motion.img
         className="h-auto w-full absolute bottom-0"
-        src="src/assets/mountains.png"
+        src="https://media-hosting.imagekit.io//19e254aa8d6c4f6a/mountains.png?Expires=1836040601&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=XGMfYTeGqNKXbYzjrSNAYg5DaXCS8Y5PcY7NTRDJ6qCCWIW77AUxFT6SlgV36Ngh82HVGnmHshEyKJLVf4E5zRhTYOBLFMRvfyHnKn2Rc6bhD~lJxWFNTK34GF-RuBujOqaep0ZkK9OBOVpZQb67L90rbrPvmpkiZWZj2aAsIG4mkrVptlLkY6DoI613PoNWdIg5GpffpbCpgdwwHXGoyFxLKdDjB7FtYkzX0W6I9eEvB7Qvaysj88--qOmxE38MAjXg~xbS6YLpuCkqRpdlHu8CG2GSJ8xtYLuRjmkiVz8wo14yrXqp5oFd2KitvR4outr6ytAuxTLsq9uu9fB6Xg__"
         alt="Mountains"
       />
     </div>
